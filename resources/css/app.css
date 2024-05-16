@@ -1,0 +1,120 @@
+/* Estilos para el cuerpo de la aplicación */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Estilos para el título principal */
+h1 {
+    color: #0C2153;
+}
+h2 {
+    font-size: 28px; /* Tamaño de fuente */
+    font-weight: bold; /* Negrita */
+    color: #0C2153; /* Color del texto */
+    margin-bottom: 15px; /* Margen inferior */
+}
+
+/* Estilos para el subtítulo */
+h3 {
+    color: #7b5262;
+}
+
+/* Estilos para la imagen estática */
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Estilos para el formulario */
+form {
+    margin-top: 20px;
+    background-color: #ffe5dd;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Estilos para los botones */
+.btn-primary {
+    background-color: #00907f;
+    border-color: #00907f;
+}
+
+.btn-primary:hover {
+    background-color: #007366;
+    border-color: #007366;
+}
+
+.btn-success {
+    background-color: #A43933;
+    border-color: #A43933;
+}
+
+.btn-success:hover {
+    background-color: #8B2D2A;
+    border-color: #8B2D2A;
+}
+
+.btn-danger {
+    background-color: #444d85;
+    border-color: #444d85;
+}
+
+.btn-danger:hover {
+    background-color: #3b416c;
+    border-color: #3b416c;
+}
+
+/* Estilos para la tabla */
+.table {
+    background-color: #ffe5dd;
+}
+
+/* Estilos para el panel de control */
+.card {
+    margin-top: 20px;
+    background-color: #ffb45a;
+    border-color: #ffb45a;
+}
+
+.card-header {
+    background-color: #00907f;
+    color: #fff;
+    font-weight: bold;
+}
+
+.card-title {
+    color: #0C2153;
+}
+
+.card-text {
+    color: #7b5262;
+}
+
+/* Estilos para el acordeón */
+.accordion {
+    margin-top: 20px;
+}
+
+.card-header button {
+    color: #00907f;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.card-header button:hover {
+    color: #007366;
+}
+
+/* Estilos para el enlace de regreso */
+.btn-back {
+    margin-top: 20px;
+    background-color: #7b5262;
+    border-color: #7b5262;
+    color: #fff;
+}
+
+.btn-back:hover {
+    background-color: #6a4654;
+    border-color: #6a4654;
+}
